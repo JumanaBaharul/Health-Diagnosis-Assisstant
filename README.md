@@ -2,9 +2,6 @@
 
 MedBot is an NLP-powered symptom analysis chatbot that predicts potential diseases based on user-reported symptoms. Built using a variety of NLP models ranging from Bag of Words to Fine-Tuned BERT, MedBot serves as a proof-of-concept for how Natural Language Processing can improve preliminary diagnostics in healthcare.
 
-Developed by **Krithika** and **Jumana**  
-Semester Project – Shiv Nadar University, Chennai
-
 ---
 
 ## 🚑 Problem Statement
